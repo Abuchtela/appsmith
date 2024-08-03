@@ -54,7 +54,7 @@
     "eslint": "^7.11.0",
     "exceljs-lightweight": "^1.14.0",
     "fast-deep-equal": "^3.1.1",
-    "fast-xml-parser": "^3.17.5",
+    "fast-xml-parser": "^4.4.1",
     "flow-bin": "^0.148.0",
     "focus-trap-react": "^8.9.2",
     "fuse.js": "^3.4.5",
