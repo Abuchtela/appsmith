@@ -17,7 +17,7 @@
 
     <properties>
         <java.version>11</java.version>
-        <ff4j.version>1.8.11</ff4j.version>
+        <ff4j.version>1.9</ff4j.version>
     </properties>
 
     <repositories>
