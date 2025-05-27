@@ -40,14 +40,14 @@
         <dependency>
             <groupId>org.eclipse.jgit</groupId>
             <artifactId>org.eclipse.jgit</artifactId>
-            <version>5.13.0.202109080827-r</version>
+            <version>6.10.1.202505221210-r</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.eclipse.jgit/org.eclipse.jgit.junit.ssh -->
         <dependency>
             <groupId>org.eclipse.jgit</groupId>
             <artifactId>org.eclipse.jgit.ssh.jsch</artifactId>
-            <version>5.13.0.202109080827-r</version>
+            <version>6.10.1.202505221210-r</version>
         </dependency>
 
 
@@ -63,7 +63,7 @@
         <dependency>
             <groupId>org.eclipse.jgit</groupId>
             <artifactId>org.eclipse.jgit.junit.ssh</artifactId>
-            <version>6.9.0.202403050737-r</version>
+            <version>6.10.1.202505221210-r</version>
         </dependency>
 
 
